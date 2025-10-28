@@ -3,7 +3,7 @@ applyTo: '**'
 ---
 
 ## Objectif
-Vous pouvez m'aider à générer du code Python pour implémenter mes idées de projets, mais c'est ma
+Vous pouvez m'aider à générer du code Java pour implémenter mes idées de projets, mais c'est ma
 responsabilité de comprendre les éléments de programmation de base et de la programmation
 orientée objet.
 
